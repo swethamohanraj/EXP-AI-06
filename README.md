@@ -210,7 +210,7 @@ def main():
 
 if __name__ == "__main__":
     main()
-
+```
 
 ### Sample Input and Output:
 ![image](https://github.com/Aashima02/AI06-Implement-Alpha-beta-pruning-of-Minimax-Search-Algorithm-for-a-Simple-TIC-TAC-TOE-game/assets/93427086/157e5c35-eaea-447a-935f-ef39528ea291)
@@ -218,7 +218,7 @@ if __name__ == "__main__":
 ![image](https://github.com/Aashima02/AI06-Implement-Alpha-beta-pruning-of-Minimax-Search-Algorithm-for-a-Simple-TIC-TAC-TOE-game/assets/93427086/49829d26-bca9-4225-9913-91fbb89d122d)
 
 ![image](https://github.com/Aashima02/AI06-Implement-Alpha-beta-pruning-of-Minimax-Search-Algorithm-for-a-Simple-TIC-TAC-TOE-game/assets/93427086/017ddb4a-43d9-46b2-ae85-2a4da3645ca2)
-```
+
 
 ## RESULT:
 Thus,Implementation Alpha-Beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game was done successfully.
